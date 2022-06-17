@@ -1,0 +1,17 @@
+.notification {
+    background-color: #abacab;
+    border-radius: 6px;
+    padding: 10px;
+    font-size: 24px;
+}
+
+.good {
+    color: green;
+    border: 3px solid green;
+
+}
+
+.bad {
+    color: red;
+    border: 3px solid red;
+}
